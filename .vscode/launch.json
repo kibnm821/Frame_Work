@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - SystemOutPrintln",
+            "request": "launch",
+            "mainClass": "Park.SystemOutPrintln",
+            "projectName": "Frame_Work_f98c2da6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EX1",
+            "request": "launch",
+            "mainClass": "Park.EX1",
+            "projectName": "Frame_Work_f98c2da6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - String_Variable",
             "request": "launch",
             "mainClass": "String_Variable",

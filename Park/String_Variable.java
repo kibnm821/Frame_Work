@@ -1,3 +1,4 @@
+package Park;
 public class String_Variable{
     public static void main(String args[]){
         String str1 = new String("This is really not immutable!!");
