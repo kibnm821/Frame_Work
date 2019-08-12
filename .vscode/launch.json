@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example1",
+            "request": "launch",
+            "mainClass": "Example1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EX1",
+            "request": "launch",
+            "mainClass": "EX1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - If_Example",
+            "request": "launch",
+            "mainClass": "If_Example"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemlnScanner",
+            "request": "launch",
+            "mainClass": "SystemlnScanner"
+        }
+    ]
+}
