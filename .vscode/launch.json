@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - If_Example",
+            "request": "launch",
+            "mainClass": "If_Example"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EX1",
+            "request": "launch",
+            "mainClass": "Park.EX1"
+        }
+    ]
+}
