@@ -2,6 +2,30 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - hashmap",
+            "request": "launch",
+            "mainClass": "hashmap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hastmap",
+            "request": "launch",
+            "mainClass": "hastmap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - generic",
+            "request": "launch",
+            "mainClass": "generic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - string",
+            "request": "launch",
+            "mainClass": "string"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - String_Variable",
             "request": "launch",
             "mainClass": "String_Variable",
