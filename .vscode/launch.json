@@ -2,79 +2,10 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - JWEOuterClass",
+            "name": "CodeLens (Launch) - My_Class",
             "request": "launch",
-            "mainClass": "JWEOuterClass",
+            "mainClass": "My_Class",
             "projectName": "Frame_Work_f98c2da6"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Inner_Class",
-            "request": "launch",
-            "mainClass": "Inner_Class",
-            "projectName": "Frame_Work_f98c2da6"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Overloading",
-            "request": "launch",
-            "mainClass": "Overloading",
-            "projectName": "Frame_Work_f98c2da6"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - calc2",
-            "request": "launch",
-            "mainClass": "calc2",
-            "projectName": "Frame_Work_f98c2da6"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - calc",
-            "request": "launch",
-            "mainClass": "calc"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Method",
-            "request": "launch",
-            "mainClass": "Method"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Collection_Ex1",
-            "request": "launch",
-            "mainClass": "Collection_Ex1"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - Collection_Ex",
-            "request": "launch",
-            "mainClass": "Collection_Ex"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - HashMap_Ex",
-            "request": "launch",
-            "mainClass": "HashMap_Ex"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - collection",
-            "request": "launch",
-            "mainClass": "collection"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - If_Example",
-            "request": "launch",
-            "mainClass": "If_Example"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - EX1",
-            "request": "launch",
-            "mainClass": "Park.EX1"
         }
     ]
 }
