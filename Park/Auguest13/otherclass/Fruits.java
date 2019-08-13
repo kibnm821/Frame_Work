@@ -1,4 +1,3 @@
-package auguest13;
 public class Fruits{
     private String caption;
     public void setCaption(String caption){
