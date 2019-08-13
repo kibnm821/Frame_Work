@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - JWEOuterClass",
+            "request": "launch",
+            "mainClass": "JWEOuterClass",
+            "projectName": "Frame_Work_f98c2da6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Inner_Class",
+            "request": "launch",
+            "mainClass": "Inner_Class",
+            "projectName": "Frame_Work_f98c2da6"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Overloading",
             "request": "launch",
             "mainClass": "Overloading",

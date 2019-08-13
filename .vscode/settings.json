@@ -1,4 +1,7 @@
 {
     "java.saveActions.organizeImports": true,
-    "editor.fontFamily": "나눔고딕코딩"
+    "editor.fontFamily": "나눔고딕코딩",
+    "cSpell.words": [
+        "otherclass"
+    ]
 }
