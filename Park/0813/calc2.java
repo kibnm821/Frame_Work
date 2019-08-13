@@ -2,8 +2,8 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class calc2{
-    static ArrayList<String> name = new ArrayList<String>();
-    static ArrayList<Integer> num = new ArrayList<Integer>();
+    private static ArrayList<String> name = new ArrayList<String>();
+    private static ArrayList<Integer> num = new ArrayList<Integer>();
     public static void main(String args[]){
         int a=2,b=2;
         calc2 cal = new calc2();
