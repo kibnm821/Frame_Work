@@ -2,6 +2,31 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - calc2",
+            "request": "launch",
+            "mainClass": "calc2",
+            "projectName": "Frame_Work_f98c2da6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - calc",
+            "request": "launch",
+            "mainClass": "calc"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Method",
+            "request": "launch",
+            "mainClass": "Method"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Collection_Ex1",
+            "request": "launch",
+            "mainClass": "Collection_Ex1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Collection_Ex",
             "request": "launch",
             "mainClass": "Collection_Ex"

@@ -16,7 +16,7 @@ public class Collection_Ex{
 
         ArrayList<String> outlist02 = new ArrayList<String>();
         outlist02 = (ArrayList<String>) hmap.get("str");
-        
+
         for(int i = 0; i < list.size(); i++){
             System.out.println(outlist02.get(i));
             System.out.println(outlist01.get(i));
