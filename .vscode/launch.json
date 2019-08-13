@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Collection_Ex",
+            "request": "launch",
+            "mainClass": "Collection_Ex"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HashMap_Ex",
             "request": "launch",
             "mainClass": "HashMap_Ex"
