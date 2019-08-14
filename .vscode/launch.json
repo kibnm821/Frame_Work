@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - inner1",
             "request": "launch",
             "mainClass": "inner1"
@@ -75,14 +76,12 @@
         },
         {
             "name": "CodeLens (Launch) - If_Example",
+=======
+            "name": "CodeLens (Launch) - My_Class",
+>>>>>>> b3ad2c09b160bd31a59e420cd9081a4daa625ec3
             "request": "launch",
-            "mainClass": "If_Example"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - EX1",
-            "request": "launch",
-            "mainClass": "Park.EX1"
+            "mainClass": "My_Class",
+            "projectName": "Frame_Work_f98c2da6"
         }
     ]
 }
