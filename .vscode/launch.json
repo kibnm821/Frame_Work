@@ -2,7 +2,83 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
+            "name": "CodeLens (Launch) - inner1",
+            "request": "launch",
+            "mainClass": "inner1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - overload",
+            "request": "launch",
+            "mainClass": "overload"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - over",
+            "request": "launch",
+            "mainClass": "over"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - callbyval",
+            "request": "launch",
+            "mainClass": "callbyval"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - collect",
+            "request": "launch",
+            "mainClass": "collect"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hashmap",
+            "request": "launch",
+            "mainClass": "hashmap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hastmap",
+            "request": "launch",
+            "mainClass": "hastmap"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - generic",
+            "request": "launch",
+            "mainClass": "generic"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - string",
+            "request": "launch",
+            "mainClass": "string"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - String_Variable",
+            "request": "launch",
+            "mainClass": "String_Variable",
+            "projectName": "Frame_Work_f98c2da6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Example1",
+            "request": "launch",
+            "mainClass": "Example1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EX1",
+            "request": "launch",
+            "mainClass": "EX1"
+        },
+        {
+            "name": "CodeLens (Launch) - If_Example",
+=======
             "name": "CodeLens (Launch) - My_Class",
+>>>>>>> b3ad2c09b160bd31a59e420cd9081a4daa625ec3
             "request": "launch",
             "mainClass": "My_Class",
             "projectName": "Frame_Work_f98c2da6"
