@@ -2,6 +2,36 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - inner1",
+            "request": "launch",
+            "mainClass": "inner1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - overload",
+            "request": "launch",
+            "mainClass": "overload"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - over",
+            "request": "launch",
+            "mainClass": "over"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - callbyval",
+            "request": "launch",
+            "mainClass": "callbyval"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - collect",
+            "request": "launch",
+            "mainClass": "collect"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - hashmap",
             "request": "launch",
             "mainClass": "hashmap"
@@ -44,16 +74,15 @@
             "mainClass": "EX1"
         },
         {
-            "type": "java",
             "name": "CodeLens (Launch) - If_Example",
             "request": "launch",
             "mainClass": "If_Example"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - SystemlnScanner",
+            "name": "CodeLens (Launch) - EX1",
             "request": "launch",
-            "mainClass": "SystemlnScanner"
+            "mainClass": "Park.EX1"
         }
     ]
 }
